@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1427141321 source:/home/turupawn/Projects/Clases/Estructura/Examen2/Evaluador.cpp
+	"Evaluador.h"
+
+1427141312 /home/turupawn/Projects/Clases/Estructura/Examen2/Evaluador.h
+	"NodoTrinario.h"
+	<iostream>
+
+1427140937 source:/home/turupawn/Projects/Clases/Estructura/Examen2/main.cpp
+	"Evaluador.h"
+	"NodoTrinario.h"
+	<iostream>
+	<vector>
+
+1427139265 source:/home/turupawn/Projects/Clases/Estructura/Examen2/NodoTrinario.cpp
+	"NodoTrinario.h"
+
+1427139562 /home/turupawn/Projects/Clases/Estructura/Examen2/NodoTrinario.h
+	<iostream>
+
+1427237764 source:c:\users\hballesteros\desktop\2015estructuraexamen2-master\2015estructuraexamen2-master\evaluador.cpp
+	"Evaluador.h"
+
+1427237764 c:\users\hballesteros\desktop\2015estructuraexamen2-master\2015estructuraexamen2-master\evaluador.h
+	"NodoTrinario.h"
+	<iostream>
+
+1427237764 c:\users\hballesteros\desktop\2015estructuraexamen2-master\2015estructuraexamen2-master\nodotrinario.h
+	<iostream>
+
+1427237764 source:c:\users\hballesteros\desktop\2015estructuraexamen2-master\2015estructuraexamen2-master\nodotrinario.cpp
+	"NodoTrinario.h"
+
+1427243771 source:c:\users\hballesteros\desktop\2015estructuraexamen2-master\2015estructuraexamen2-master\main.cpp
+	"Evaluador.h"
+	"NodoTrinario.h"
+	<iostream>
+	<vector>
+
